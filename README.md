@@ -24,7 +24,8 @@
 * USAGE
 -----------------------------
 1. Find the corresponding environment
-2.Execute
+
+3.Execute
 
   mkdir out
   mkdir build
