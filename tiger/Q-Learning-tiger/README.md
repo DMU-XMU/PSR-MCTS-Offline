@@ -1,5 +1,5 @@
-main-1	       单步Q学习
+main-1	       one-step Q-learning
 
-main   	       历史信息长度为2n，可以多次运行取平均，N>1
+main   	       history length 2n
 
-main-(2n+1)   历史信息长度为2n+1
+main-(2n+1)    history length 2n+1
