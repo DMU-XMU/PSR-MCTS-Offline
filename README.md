@@ -23,14 +23,18 @@
 -----------------------------
 * USAGE
 -----------------------------
-1. Find the corresponding environment
+1. Find the corresponding environment.
 
-3.Execute
+2.Execut.
 
   mkdir out
+  
   mkdir build
+  
   cd build
+  
   cmake ..(may need to be executed twice)
+  
   make
   
 Some combination of parameters might fail without warning, you have to know what you are doing...
