@@ -1,6 +1,6 @@
-# PSR-MCTS-Offline
+## PSR-MCTS-Offline
 -----------------------------
-* Related Algorithms
+#* Related Algorithms
 -----------------------------
  
   1. BAPOMCP 
@@ -21,13 +21,13 @@
  3. POSyadmin
  
 -----------------------------
-* USAGE
+#* USAGE
 -----------------------------
 1. Find the corresponding environment.
 
 2.Execut.
 
-  mkdir out
+  $ mkdir out
   
   mkdir build
   
@@ -35,13 +35,13 @@
   
   cmake ..(may need to be executed twice)
   
-  make
+  make $ 
   
 Some combination of parameters might fail without warning, you have to know what you are doing...
 
 3. Please run the following command.
 
-./brl --ENV 11 --S 2 --A 3 --BAPOMCP --K 100 --T 20 --N 10000
+$./brl --ENV 11 --S 2 --A 3 --BAPOMCP --K 100 --T 20 --N 10000$
 
 K is the number of simulators.
 
