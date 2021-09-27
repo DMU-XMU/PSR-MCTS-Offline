@@ -1,0 +1,29 @@
+* Algorithms
+  
+  PSR-MCTS-RO
+
+* Environments
+
+ POSysadmin(3 computer)
+  
+-----------------------------
+INSTALLATION
+-----------------------------
+
+mkdir out
+mkdir build
+cd build
+cmake ..(may need to be executed twice)
+make
+
+-----------------------------
+USAGE
+-----------------------------
+
+Some combination of parameters might fail without warning, you have to know what you are doing...
+
+Please run the following command.
+./brl --ENV 12 --S 8 --A 7 --PSRMCTS --K 100 --T 20 --N 100
+
+=> Check main.cpp for all parameter names and configurations.
+
