@@ -1,4 +1,4 @@
-## PSR-MCTS-Offline
+# PSR-MCTS-Offline
 -----------------------------
 # Related Algorithms
 -----------------------------
