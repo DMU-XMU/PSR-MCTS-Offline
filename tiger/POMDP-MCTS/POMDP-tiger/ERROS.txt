@@ -1,0 +1,12 @@
+find_H_Groups1:线性无关
+errsum = 0.04041
+errsum = 0.01087
+errsum = 0.02388
+errsum = 0.0127
+errsum = 0.02131
+errsum = 0.02119
+errsum = 0.01181
+errsum = 0.01591
+errsum = 0.01499
+errsum = 0.01391
+average = 0.018698
