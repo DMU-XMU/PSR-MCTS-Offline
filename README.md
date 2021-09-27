@@ -35,11 +35,15 @@
 Some combination of parameters might fail without warning, you have to know what you are doing...
 
 3. Please run the following command.
+
 ./brl --ENV 11 --S 2 --A 3 --BAPOMCP --K 100 --T 20 --N 10000
 
 K is the number of simulators.
+
 N is the number of runs.
+
 => Check main.cpp for all parameter names and configurations.
+
 
 There is a lot of useless code in the source code, too late to change due to time constraints.
 Only this algorithm and environment assurance can run.
